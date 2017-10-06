@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Wagner",
+    "age": 30,
+    "knowledge": [
+      {
+        "language": "JavaScript",
+        "frameworks": ["express.js", "Angular", "React", "React Native", "Node"]
+      },
+      {
+        "language": "Java",
+        "frameworks": ["Spring", "Spring Boot"]
+      },
+      {
+        "language": "Ruby",
+        "frameworks": ["Ruby on Rails"]
+      },
+      {
+        "language": "Python",
+        "frameworks": ["Flask"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Armando",
+    "age": 22,
+    "knowledge": [
+      {
+        "language": "JavaScript",
+        "frameworks": ["express.js", "Angular", "React", "React Native", "Node"]
+      },
+      {
+        "language": "Ruby",
+        "frameworks": ["Ruby on Rails"]
+      },
+      {
+        "language": "Python",
+        "frameworks": ["Flask", "Django"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Samuel",
+    "age": 21,
+    "knowledge": [
+      {
+        "language": "C#",
+        "frameworks": []
+      },
+      {
+        "language": "Java",
+        "frameworks": ["Spring", "JSF"]
+      },
+      {
+        "language": "Python",
+        "frameworks": ["Flask"]
+      }
+    ]
+  }
+]
